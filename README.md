@@ -26,6 +26,15 @@ Para compilar e executar os exercícios em **Java**, siga os passos abaixo:
 java -version
 
 ----
+
+📂 Estrutura das Pastas
+
+ Os xercícios resolvidos estão organizados em pastas nomeadas como exercise01, exercise02.... e assim por diante.
+
+📌 Importante: Essas pastas contêm apenas a resolução dos problemas. Para entender completamente cada questão, é necessário acompanhar o documento original passado pelo professor.
+
+---
+
 ✨ Contribuição
 💌 Caso encontre algum erro ou tenha sugestões, fique à vontade para abrir um pull request ou issue!
 
