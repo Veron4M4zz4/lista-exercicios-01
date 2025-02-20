@@ -24,3 +24,11 @@ Para compilar e executar os exercícios em **Java**, siga os passos abaixo:
 1️⃣ **Verifique se o Java está instalado:**  
 ```bash
 java -version
+
+----
+✨ Contribuição
+💌 Caso encontre algum erro ou tenha sugestões, fique à vontade para abrir um pull request ou issue!
+
+🔗 Contato: GitHub - Veron4M4zz4
+
+🎀 Feito com muito 💕 e 💻 por Verona Amoêdo! 🎀
